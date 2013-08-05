@@ -1,0 +1,15 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "author": "http://madebycabin.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cabin/utils.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-karma": "~0.4.4"
+  }
+}
