@@ -1,6 +1,6 @@
 {
   "name": "utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "angular-1.1.x": "1.1.5"
   }
