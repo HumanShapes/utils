@@ -24,7 +24,7 @@ module.exports = (grunt) ->
     watch:
       coffee:
         files: ['<%= path.src %>/**/*.coffee']
-        tasks: ['coffee', 'karma:unit:run']
+        tasks: ['build', 'karma:unit:run']
       karma:
         files: ['test/**/*.spec.coffee']
         tasks: ['karma:unit:run']
