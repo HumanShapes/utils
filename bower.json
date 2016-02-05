@@ -2,6 +2,6 @@
   "name": "utils",
   "version": "0.0.4",
   "dependencies": {
-    "angular-1.1.x": "1.1.5"
+    "angular": "~1.2.29"
   }
 }
